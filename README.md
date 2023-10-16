@@ -22,3 +22,12 @@ git add .
 git commit -m "Mensaje"
 git push -u origin main 
 ```
+
+# .gitignore
+
+Los ficheros/archivos incluidos en el fichero .gitignore 
+se ignoran automaticamente al subir los cambios al repositorio 
+remoto.
+
+En nuestro caso ignoramos al archivo reto_2 entero y a todos los 
+ficheros .png.
